@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-16T01:38:24 IST" name="Default suite" finished-at="2025-02-16T01:39:34 IST" duration-ms="70591">
+    <groups>
+    </groups>
+    <test started-at="2025-02-16T01:38:24 IST" name="Default test" finished-at="2025-02-16T01:39:34 IST" duration-ms="70591">
+      <class name="tutorialsninja.register.TC_RF_018">
+        <test-method signature="verifyRegisteringAccountFieldWidth()[pri:0, instance:tutorialsninja.register.TC_RF_018@74ea2410]" started-at="2025-02-16T01:38:24 IST" name="verifyRegisteringAccountFieldWidth" finished-at="2025-02-16T01:39:34 IST" duration-ms="70541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountFieldWidth -->
+      </class> <!-- tutorialsninja.register.TC_RF_018 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
