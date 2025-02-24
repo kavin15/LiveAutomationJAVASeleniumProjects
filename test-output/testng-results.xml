@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-16T01:38:24 IST" name="Default suite" finished-at="2025-02-16T01:39:34 IST" duration-ms="70591">
+  <suite started-at="2025-02-16T04:28:27 IST" name="Default suite" finished-at="2025-02-16T04:28:31 IST" duration-ms="4683">
     <groups>
     </groups>
-    <test started-at="2025-02-16T01:38:24 IST" name="Default test" finished-at="2025-02-16T01:39:34 IST" duration-ms="70591">
-      <class name="tutorialsninja.register.TC_RF_018">
-        <test-method signature="verifyRegisteringAccountFieldWidth()[pri:0, instance:tutorialsninja.register.TC_RF_018@74ea2410]" started-at="2025-02-16T01:38:24 IST" name="verifyRegisteringAccountFieldWidth" finished-at="2025-02-16T01:39:34 IST" duration-ms="70541" status="PASS">
+    <test started-at="2025-02-16T04:28:27 IST" name="Default test" finished-at="2025-02-16T04:28:31 IST" duration-ms="4683">
+      <class name="tutorialsninja.register.TC_RF_022">
+        <test-method signature="verifyVisibilityTogglineOfPasswordFieldsOnRegisteringAccount()[pri:0, instance:tutorialsninja.register.TC_RF_022@54a7079e]" started-at="2025-02-16T04:28:27 IST" name="verifyVisibilityTogglineOfPasswordFieldsOnRegisteringAccount" finished-at="2025-02-16T04:28:31 IST" duration-ms="4647" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyRegisteringAccountFieldWidth -->
-      </class> <!-- tutorialsninja.register.TC_RF_018 -->
+        </test-method> <!-- verifyVisibilityTogglineOfPasswordFieldsOnRegisteringAccount -->
+      </class> <!-- tutorialsninja.register.TC_RF_022 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
